@@ -83,12 +83,19 @@ In computer science, a linked list is a linear collection of data elements whose
 
 *Problems:*
 [Add-2-Numbers-represented-as-LinkedList](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/AddNumbersInLinkedList.java)
+
 [Sum-of-numbers-in-LinkedList](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/AdditionLinkedListController.java)
+
 [Sorting-a-LinkedList-of-0s-1s-2s](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/DeleteNodeClass.java)
+
 [Intersection-of-2-LinkedLists](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/IntersectionOfLinkedList.java)
+
 [Replace-alternate-nodes-in-LinkedList](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/LinkedList.java)
+
 [Rearrange-a-LinkedList-in-place](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/ReArrangerClass.java)
+
 [Reverse-LinkedList-By-K](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/ReverseLinkedListByK.java)
+
 
 **Problem Solving**
 
