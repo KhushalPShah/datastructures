@@ -77,6 +77,19 @@ In computer science, a graph is an abstract data type that is meant to implement
 
 Heap is a special case of balanced binary tree data structure where the root-node key is compared with its children and arranged accordingly
 
+**Linked List**
+
+In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.
+
+*Problems:*
+[Add-2-Numbers-represented-as-LinkedList](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/AddNumbersInLinkedList.java)
+[Sum-of-numbers-in-LinkedList](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/AdditionLinkedListController.java)
+[Sorting-a-LinkedList-of-0s-1s-2s](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/DeleteNodeClass.java)
+[Intersection-of-2-LinkedLists](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/IntersectionOfLinkedList.java)
+[Replace-alternate-nodes-in-LinkedList](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/LinkedList.java)
+[Rearrange-a-LinkedList-in-place](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/ReArrangerClass.java)
+[Reverse-LinkedList-By-K](https://github.com/SiddharthaAnand/datastructures/blob/master/linked_list/ReverseLinkedListByK.java)
+
 **Problem Solving**
 
 Problem solving involves dealing with pragmatics, the way that context contributes to a meaning, scemantics and interpretation of the problem .This represents the ability to understand the goal of the problem and the rules that can be applied .
